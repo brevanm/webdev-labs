@@ -9,3 +9,19 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
+section {
+    width: 350px;
+    border: solid 1px #ccc;
+    margin: 10px;
+
+}
+
+section img {
+    width: 100%;
+}
+
+section h2, section p, section button {
+    margin: 20px;
+    /*margin-left: 20px;
+    margin-right: 20px;*/
+}
