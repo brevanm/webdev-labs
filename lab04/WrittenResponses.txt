@@ -1,0 +1,8 @@
+SQLAlchemy allows you to use Python logic/code to interact with many different variations of SQL
+databases. This is intended to make interacting with SQL databases more convenient.
+
+A model is a python class representation of a SQL datatable. It is python object that can be interacted with
+like normal while SQL Alchemy does all the SQL commands under the hood
+
+A view is an established link between a client and certain portion of a database using
+Flask RESTful.
